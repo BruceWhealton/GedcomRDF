@@ -1,0 +1,2039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:rel="http://purl.org/vocab/relationship/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:bio="http://purl.org/vocab/bio/0.1/">
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Walter_Elias_Disney(1901-1966)">
+    <rdfs:label>Walter Elias Disney(1901-1966)</rdfs:label>
+    <foaf:name>Walter Elias</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Lillian_M._Bounds(1899-1997)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1859-1941)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Roy_O._Disney(1893-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Herbert_Disney(1888-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Raymond_Disney(1890-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Walter_Elias_Disney(1901-1966)">
+        <rdfs:label>Birth of Walter Elias Disney(1901-1966)</rdfs:label>
+        <bio:date> 5 Dec 1901</bio:date>
+        <bio:place>Chicago, Cook, Illinois</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Walter_Elias_Disney(1901-1966)">
+        <rdfs:label>Death of Walter Elias Disney(1901-1966)</rdfs:label>
+        <bio:date>15 Dec 1966</bio:date>
+        <bio:place>, Los Angeles, California</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Elias_Disney(1859-1941)">
+    <rdfs:label>Elias Disney(1859-1941)</rdfs:label>
+    <foaf:name>Elias</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Richardson(1838-1909)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Elias_Disney(1859-1941)">
+        <rdfs:label>Birth of Elias Disney(1859-1941)</rdfs:label>
+        <bio:date> 6 Feb 1859</bio:date>
+        <bio:place>,Huron County, Ontario</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Elias_Disney(1859-1941)">
+        <rdfs:label>Death of Elias Disney(1859-1941)</rdfs:label>
+        <bio:date>13 Sep 1941</bio:date>
+        <bio:place>, Los Angeles, California</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)">
+    <rdfs:label>Flora Call(1868-1938)</rdfs:label>
+    <foaf:name>Flora</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1859-1941)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Flora_Call(1868-1938)">
+        <rdfs:label>Birth of Flora Call(1868-1938)</rdfs:label>
+        <bio:date>22 Apr 1868</bio:date>
+        <bio:place>Greenfield, Huron, Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Flora_Call(1868-1938)">
+        <rdfs:label>Death of Flora Call(1868-1938)</rdfs:label>
+        <bio:date>26 Nov 1938</bio:date>
+        <bio:place>, Los Angeles, California</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)">
+    <rdfs:label>Kepple Disney(1832-1891)</rdfs:label>
+    <foaf:name>Kepple</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Richardson(1838-1909)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Disney(1838-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charlotte_Disney(1850-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Disney(1851-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Disney(1853-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hariette_Disney(1856-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_R._Disney(1858-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Kepple_Disney(1832-1891)">
+        <rdfs:label>Birth of Kepple Disney(1832-1891)</rdfs:label>
+        <bio:date> 2 Nov 1832</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Kepple_Disney(1832-1891)">
+        <rdfs:label>Death of Kepple Disney(1832-1891)</rdfs:label>
+        <bio:date> 1 May 1891</bio:date>
+        <bio:place>Ellis, Ellis, Kansas</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mary_Richardson(1838-1909)">
+    <rdfs:label>Mary Richardson(1838-1909)</rdfs:label>
+    <foaf:name>Mary</foaf:name>
+    <foaf:surname>Richardson</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Ruth_Lark(1797-1876)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Robert_Richardson(1796-1861)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Richardson(1832-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Richardson(1843-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joseph_Richardson(1839-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Mary_Richardson(1838-1909)">
+        <rdfs:label>Birth of Mary Richardson(1838-1909)</rdfs:label>
+        <bio:date>20 Mar 1838</bio:date>
+        <bio:place>, , Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Mary_Richardson(1838-1909)">
+        <rdfs:label>Death of Mary Richardson(1838-1909)</rdfs:label>
+        <bio:date>10 Mar 1909</bio:date>
+        <bio:place>, Ellis County, Kansas</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Roy_O._Disney(1893-%3F)">
+    <rdfs:label>Roy O. Disney(1893-?)</rdfs:label>
+    <foaf:name>Roy O.</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1859-1941)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Walter_Elias_Disney(1901-1966)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Herbert_Disney(1888-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Raymond_Disney(1890-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Roy_O._Disney(1893-%3F)">
+        <rdfs:label>Birth of Roy O. Disney(1893-?)</rdfs:label>
+        <bio:date>24 Jun 1893</bio:date>
+        <bio:place>Chicago, Cook, Illinois</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Herbert_Disney(1888-%3F)">
+    <rdfs:label>Herbert Disney(1888-?)</rdfs:label>
+    <foaf:name>Herbert</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1859-1941)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Walter_Elias_Disney(1901-1966)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Roy_O._Disney(1893-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Raymond_Disney(1890-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Herbert_Disney(1888-%3F)">
+        <rdfs:label>Birth of Herbert Disney(1888-?)</rdfs:label>
+        <bio:date> 8 Dec 1888</bio:date>
+        <bio:place>Kissimmee, Florida</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Raymond_Disney(1890-%3F)">
+    <rdfs:label>Raymond Disney(1890-?)</rdfs:label>
+    <foaf:name>Raymond</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1859-1941)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Walter_Elias_Disney(1901-1966)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Roy_O._Disney(1893-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Herbert_Disney(1888-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Raymond_Disney(1890-%3F)">
+        <rdfs:label>Birth of Raymond Disney(1890-?)</rdfs:label>
+        <bio:date>30 Dec 1890</bio:date>
+        <bio:place>Chicago, Cook, Illinois</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Lillian_M._Bounds(1899-1997)">
+    <rdfs:label>Lillian M. Bounds(1899-1997)</rdfs:label>
+    <foaf:name>Lillian M.</foaf:name>
+    <foaf:surname>Bounds</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Walter_Elias_Disney(1901-1966)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Lillian_M._Bounds(1899-1997)">
+        <rdfs:label>Birth of Lillian M. Bounds(1899-1997)</rdfs:label>
+        <bio:date>15 Feb 1899</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Lillian_M._Bounds(1899-1997)">
+        <rdfs:label>Death of Lillian M. Bounds(1899-1997)</rdfs:label>
+        <bio:date>16 Dec 1997</bio:date>
+        <bio:place>, Los Angeles, California</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)">
+    <rdfs:label>Arundel Elias Disney(1803-?)</rdfs:label>
+    <foaf:name>Arundel Elias</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Arundel_Elias_Disney(1803-%3F)">
+        <rdfs:label>Birth of Arundel Elias Disney(1803-?)</rdfs:label>
+        <bio:date>ABT 1803</bio:date>
+        <bio:place>, , Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)">
+    <rdfs:label>Maria Swan(1815-1896)</rdfs:label>
+    <foaf:name>Maria</foaf:name>
+    <foaf:surname>Swan</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Maria_Swan(1815-1896)">
+        <rdfs:label>Birth of Maria Swan(1815-1896)</rdfs:label>
+        <bio:date>ABT 1815</bio:date>
+        <bio:place>, , Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Maria_Swan(1815-1896)">
+        <rdfs:label>Death of Maria Swan(1815-1896)</rdfs:label>
+        <bio:date>1896</bio:date>
+        <bio:place>Ellis, Ellis, Kansas</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Robert_Richardson(1796-1861)">
+    <rdfs:label>Robert Richardson(1796-1861)</rdfs:label>
+    <foaf:name>Robert</foaf:name>
+    <foaf:surname>Richardson</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Ruth_Lark(1797-1876)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Robert_Richardson(1796-1861)">
+        <rdfs:label>Birth of Robert Richardson(1796-1861)</rdfs:label>
+        <bio:date>ABT 1796</bio:date>
+        <bio:place>, , Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Robert_Richardson(1796-1861)">
+        <rdfs:label>Death of Robert Richardson(1796-1861)</rdfs:label>
+        <bio:date>AFT 1861</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Ruth_Lark(1797-1876)">
+    <rdfs:label>Ruth Lark(1797-1876)</rdfs:label>
+    <foaf:name>Ruth</foaf:name>
+    <foaf:surname>Lark</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Robert_Richardson(1796-1861)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Ruth_Lark(1797-1876)">
+        <rdfs:label>Birth of Ruth Lark(1797-1876)</rdfs:label>
+        <bio:date>ABT 1797</bio:date>
+        <bio:place>, , Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Ruth_Lark(1797-1876)">
+        <rdfs:label>Death of Ruth Lark(1797-1876)</rdfs:label>
+        <bio:date> 8 Oct 1876</bio:date>
+        <bio:place>Homesville, Ontario</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)">
+    <rdfs:label>Charles Call(1822-1890)</rdfs:label>
+    <foaf:name>Charles</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Violette_Lawrence(1792-1870)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Eber_Call(1791-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Charles_Call(1822-1890)">
+        <rdfs:label>Birth of Charles Call(1822-1890)</rdfs:label>
+        <bio:date>22 Mar 1822</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Charles_Call(1822-1890)">
+        <rdfs:label>Death of Charles Call(1822-1890)</rdfs:label>
+        <bio:date> 6 Jan 1890</bio:date>
+        <bio:place>Paisley, Lake, Florida</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)">
+    <rdfs:label>Henrietta Gross(1837-1910)</rdfs:label>
+    <foaf:name>Henrietta</foaf:name>
+    <foaf:surname>Gross</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Catharine_Hannah_Smith(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_George_Gross(1805-1886)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Christian_Henry_Gross(1841-1929)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Catherine_Hanna_Gross(1845-1921)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Henry_Gross(1849-1925)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Henrietta_Gross(1837-1910)">
+        <rdfs:label>Birth of Henrietta Gross(1837-1910)</rdfs:label>
+        <bio:date>27 Jul 1837</bio:date>
+        <bio:place>Miehlen, Hesse, Prussia</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Henrietta_Gross(1837-1910)">
+        <rdfs:label>Death of Henrietta Gross(1837-1910)</rdfs:label>
+        <bio:date>21 Feb 1910</bio:date>
+        <bio:place>Paisley, Lake, Florida</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)">
+    <rdfs:label>Charles Henry Call(1870-?)</rdfs:label>
+    <foaf:name>Charles Henry</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Charles_Henry_Call(1870-%3F)">
+        <rdfs:label>Birth of Charles Henry Call(1870-?)</rdfs:label>
+        <bio:date> 6 Oct 1870</bio:date>
+        <bio:place>Greenfield, Huron, Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)">
+    <rdfs:label>Grace Call(1873-?)</rdfs:label>
+    <foaf:name>Grace</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Grace_Call(1873-%3F)">
+        <rdfs:label>Birth of Grace Call(1873-?)</rdfs:label>
+        <bio:date>25 Jan 1873</bio:date>
+        <bio:place>Greenfield, Huron, Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)">
+    <rdfs:label>Julia Call(1876-?)</rdfs:label>
+    <foaf:name>Julia</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Julia_Call(1876-%3F)">
+        <rdfs:label>Birth of Julia Call(1876-?)</rdfs:label>
+        <bio:date>23 Aug 1876</bio:date>
+        <bio:place>Greenfield, Huron, Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)">
+    <rdfs:label>Laura M. Call(1857-?)</rdfs:label>
+    <foaf:name>Laura M.</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Laura_M._Call(1857-%3F)">
+        <rdfs:label>Birth of Laura M. Call(1857-?)</rdfs:label>
+        <bio:date>ABT 1857</bio:date>
+        <bio:place>, , Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)">
+    <rdfs:label>Harry Call(1858-?)</rdfs:label>
+    <foaf:name>Harry</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Harry_Call(1858-%3F)">
+        <rdfs:label>Birth of Harry Call(1858-?)</rdfs:label>
+        <bio:date>ABT 1858</bio:date>
+        <bio:place>, , Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)">
+    <rdfs:label>Ada Call(1860-?)</rdfs:label>
+    <foaf:name>Ada</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Ada_Call(1860-%3F)">
+        <rdfs:label>Birth of Ada Call(1860-?)</rdfs:label>
+        <bio:date>ABT 1860</bio:date>
+        <bio:place>, , Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)">
+    <rdfs:label>Alice Call(1862-?)</rdfs:label>
+    <foaf:name>Alice</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Alice_Call(1862-%3F)">
+        <rdfs:label>Birth of Alice Call(1862-?)</rdfs:label>
+        <bio:date>ABT 1862</bio:date>
+        <bio:place>, , Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)">
+    <rdfs:label>Mary Call(1864-?)</rdfs:label>
+    <foaf:name>Mary</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Mary_Call(1864-%3F)">
+        <rdfs:label>Birth of Mary Call(1864-?)</rdfs:label>
+        <bio:date>ABT 1864</bio:date>
+        <bio:place>, , Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Jessie_Call(1866-%3F)">
+    <rdfs:label>Jessie Call(1866-?)</rdfs:label>
+    <foaf:name>Jessie</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charles_Henry_Call(1870-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Grace_Call(1873-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Julia_Call(1876-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Laura_M._Call(1857-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Harry_Call(1858-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ada_Call(1860-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Alice_Call(1862-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Call(1864-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Jessie_Call(1866-%3F)">
+        <rdfs:label>Birth of Jessie Call(1866-?)</rdfs:label>
+        <bio:date>ABT 1866</bio:date>
+        <bio:place>, , Ohio</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Eber_Call(1791-%3F)">
+    <rdfs:label>Eber Call(1791-?)</rdfs:label>
+    <foaf:name>Eber</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Violette_Lawrence(1792-1870)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Fanny_Johnson(1764-1801)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hannah_Call(1787-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ira_Call(1785-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levina_Call(1789-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Olive_Call(1793-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Eber_Call(1791-%3F)">
+        <rdfs:label>Birth of Eber Call(1791-?)</rdfs:label>
+        <bio:date>14 Jul 1791</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Violette_Lawrence(1792-1870)">
+    <rdfs:label>Violette Lawrence(1792-1870)</rdfs:label>
+    <foaf:name>Violette</foaf:name>
+    <foaf:surname>Lawrence</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Eber_Call(1791-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Violette_Lawrence(1792-1870)">
+        <rdfs:label>Birth of Violette Lawrence(1792-1870)</rdfs:label>
+        <bio:date>ABT 1792</bio:date>
+        <bio:place>, , Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Violette_Lawrence(1792-1870)">
+        <rdfs:label>Death of Violette Lawrence(1792-1870)</rdfs:label>
+        <bio:date>12 Jun 1870</bio:date>
+        <bio:place>Greenfield, Huron, Ohio</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/John_George_Gross(1805-1886)">
+    <rdfs:label>John George Gross(1805-1886)</rdfs:label>
+    <foaf:name>John George</foaf:name>
+    <foaf:surname>Gross</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Catharine_Hannah_Smith(%3F-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_John_George_Gross(1805-1886)">
+        <rdfs:label>Birth of John George Gross(1805-1886)</rdfs:label>
+        <bio:date>20 Oct 1805</bio:date>
+        <bio:place>Miehlen, Hesse, Prussia</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_John_George_Gross(1805-1886)">
+        <rdfs:label>Death of John George Gross(1805-1886)</rdfs:label>
+        <bio:date>13 Feb 1886</bio:date>
+        <bio:place>Lacey, Mahaska, Iowa</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Catharine_Hannah_Smith(%3F-%3F)">
+    <rdfs:label>Catharine Hannah Smith(?-?)</rdfs:label>
+    <foaf:name>Catharine Hannah</foaf:name>
+    <foaf:surname>Smith</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/John_George_Gross(1805-1886)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Catharine_Hannah_Smith(%3F-%3F)">
+        <rdfs:label>Birth of Catharine Hannah Smith(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/John_Call(1761-1831)">
+    <rdfs:label>John Call(1761-1831)</rdfs:label>
+    <foaf:name>John</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Fanny_Johnson(1764-1801)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_John_Call(1761-1831)">
+        <rdfs:label>Birth of John Call(1761-1831)</rdfs:label>
+        <bio:date>14 Oct 1761</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_John_Call(1761-1831)">
+        <rdfs:label>Death of John Call(1761-1831)</rdfs:label>
+        <bio:date> 1 Jun 1831</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Fanny_Johnson(1764-1801)">
+    <rdfs:label>Fanny Johnson(1764-1801)</rdfs:label>
+    <foaf:name>Fanny</foaf:name>
+    <foaf:surname>Johnson</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mercy_Fox(1740-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Moses_Johnson(1737-1815)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Fanny_Johnson(1764-1801)">
+        <rdfs:label>Birth of Fanny Johnson(1764-1801)</rdfs:label>
+        <bio:date>16 May 1764</bio:date>
+        <bio:place>Woodstock, Windham, Conn.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Fanny_Johnson(1764-1801)">
+        <rdfs:label>Death of Fanny Johnson(1764-1801)</rdfs:label>
+        <bio:date>27 Apr 1801</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Hannah_Call(1787-%3F)">
+    <rdfs:label>Hannah Call(1787-?)</rdfs:label>
+    <foaf:name>Hannah</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Fanny_Johnson(1764-1801)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eber_Call(1791-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ira_Call(1785-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levina_Call(1789-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Olive_Call(1793-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Hannah_Call(1787-%3F)">
+        <rdfs:label>Birth of Hannah Call(1787-?)</rdfs:label>
+        <bio:date>14 Apr 1787</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Ira_Call(1785-%3F)">
+    <rdfs:label>Ira Call(1785-?)</rdfs:label>
+    <foaf:name>Ira</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Fanny_Johnson(1764-1801)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eber_Call(1791-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hannah_Call(1787-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levina_Call(1789-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Olive_Call(1793-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Ira_Call(1785-%3F)">
+        <rdfs:label>Birth of Ira Call(1785-?)</rdfs:label>
+        <bio:date>22 Dec 1785</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Levina_Call(1789-%3F)">
+    <rdfs:label>Levina Call(1789-?)</rdfs:label>
+    <foaf:name>Levina</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Fanny_Johnson(1764-1801)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eber_Call(1791-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hannah_Call(1787-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ira_Call(1785-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Olive_Call(1793-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Levina_Call(1789-%3F)">
+        <rdfs:label>Birth of Levina Call(1789-?)</rdfs:label>
+        <bio:date>26 Mar 1789</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Olive_Call(1793-%3F)">
+    <rdfs:label>Olive Call(1793-?)</rdfs:label>
+    <foaf:name>Olive</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Fanny_Johnson(1764-1801)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eber_Call(1791-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hannah_Call(1787-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Ira_Call(1785-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levina_Call(1789-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Olive_Call(1793-%3F)">
+        <rdfs:label>Birth of Olive Call(1793-?)</rdfs:label>
+        <bio:date>24 Jun 1793</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)">
+    <rdfs:label>John Call(?-?)</rdfs:label>
+    <foaf:name>John</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_John_Call(%3F-%3F)">
+        <rdfs:label>Birth of John Call(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)">
+    <rdfs:label>Lucy Chaffee(?-?)</rdfs:label>
+    <foaf:name>Lucy</foaf:name>
+    <foaf:surname>Chaffee</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Lucy_Chaffee(%3F-%3F)">
+        <rdfs:label>Birth of Lucy Chaffee(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)">
+    <rdfs:label>Elizabeth Call(1763-?)</rdfs:label>
+    <foaf:name>Elizabeth</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Jacob_Randall(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Elizabeth_Call(1763-%3F)">
+        <rdfs:label>Birth of Elizabeth Call(1763-?)</rdfs:label>
+        <bio:date>29 Sep 1763</bio:date>
+        <bio:place>Woodstock, Windham, Conn.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Jacob_Randall(%3F-%3F)">
+    <rdfs:label>Jacob Randall(?-?)</rdfs:label>
+    <foaf:name>Jacob</foaf:name>
+    <foaf:surname>Randall</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Jacob_Randall(%3F-%3F)">
+        <rdfs:label>Birth of Jacob Randall(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)">
+    <rdfs:label>Stephen Call(1765-1766)</rdfs:label>
+    <foaf:name>Stephen</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Stephen_Call(1765-1766)">
+        <rdfs:label>Birth of Stephen Call(1765-1766)</rdfs:label>
+        <bio:date> 6 May 1765</bio:date>
+        <bio:place>Woodstock, Windham, Conn.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Stephen_Call(1765-1766)">
+        <rdfs:label>Death of Stephen Call(1765-1766)</rdfs:label>
+        <bio:date>24 May 1766</bio:date>
+        <bio:place>Woodstock, Windham, Conn.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)">
+    <rdfs:label>Stephen Call(1768-1848)</rdfs:label>
+    <foaf:name>Stephen</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Martha_Emeline_Howard(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Stephen_Call(1768-1848)">
+        <rdfs:label>Birth of Stephen Call(1768-1848)</rdfs:label>
+        <bio:date>29 Apr 1768</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Stephen_Call(1768-1848)">
+        <rdfs:label>Death of Stephen Call(1768-1848)</rdfs:label>
+        <bio:date>23 May 1848</bio:date>
+        <bio:place>Corinth, Saratoga, New York</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Martha_Emeline_Howard(%3F-%3F)">
+    <rdfs:label>Martha Emeline Howard(?-?)</rdfs:label>
+    <foaf:name>Martha Emeline</foaf:name>
+    <foaf:surname>Howard</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Martha_Emeline_Howard(%3F-%3F)">
+        <rdfs:label>Birth of Martha Emeline Howard(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)">
+    <rdfs:label>Eunice Call(1770-1777)</rdfs:label>
+    <foaf:name>Eunice</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Eunice_Call(1770-1777)">
+        <rdfs:label>Birth of Eunice Call(1770-1777)</rdfs:label>
+        <bio:date>14 May 1770</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Eunice_Call(1770-1777)">
+        <rdfs:label>Death of Eunice Call(1770-1777)</rdfs:label>
+        <bio:date>23 Jan 1777</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)">
+    <rdfs:label>Levi Call(1772-1776)</rdfs:label>
+    <foaf:name>Levi</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Levi_Call(1772-1776)">
+        <rdfs:label>Birth of Levi Call(1772-1776)</rdfs:label>
+        <bio:date>21 Jan 1772</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Levi_Call(1772-1776)">
+        <rdfs:label>Death of Levi Call(1772-1776)</rdfs:label>
+        <bio:date>10 Jan 1776</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)">
+    <rdfs:label>Lucy Call(1774-?)</rdfs:label>
+    <foaf:name>Lucy</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Lucy_Call(1774-%3F)">
+        <rdfs:label>Birth of Lucy Call(1774-?)</rdfs:label>
+        <bio:date>30 Jun 1774</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)">
+    <rdfs:label>Abigail Call(1776-1838)</rdfs:label>
+    <foaf:name>Abigail</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Joseph_Stone(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Abigail_Call(1776-1838)">
+        <rdfs:label>Birth of Abigail Call(1776-1838)</rdfs:label>
+        <bio:date>19 Mar 1776</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Abigail_Call(1776-1838)">
+        <rdfs:label>Death of Abigail Call(1776-1838)</rdfs:label>
+        <bio:date> 5 Jun 1838</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Joseph_Stone(%3F-%3F)">
+    <rdfs:label>Joseph Stone(?-?)</rdfs:label>
+    <foaf:name>Joseph</foaf:name>
+    <foaf:surname>Stone</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Joseph_Stone(%3F-%3F)">
+        <rdfs:label>Birth of Joseph Stone(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)">
+    <rdfs:label>Levi Call(1778-1868)</rdfs:label>
+    <foaf:name>Levi</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Mercy_Purinton(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Levi_Call(1778-1868)">
+        <rdfs:label>Birth of Levi Call(1778-1868)</rdfs:label>
+        <bio:date>29 Jun 1778</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Levi_Call(1778-1868)">
+        <rdfs:label>Death of Levi Call(1778-1868)</rdfs:label>
+        <bio:date>15 Apr 1868</bio:date>
+        <bio:place>Hartsville, , New York</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mercy_Purinton(%3F-%3F)">
+    <rdfs:label>Mercy Purinton(?-?)</rdfs:label>
+    <foaf:name>Mercy</foaf:name>
+    <foaf:surname>Purinton</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Mercy_Purinton(%3F-%3F)">
+        <rdfs:label>Birth of Mercy Purinton(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)">
+    <rdfs:label>Isaac Call(1780-1793)</rdfs:label>
+    <foaf:name>Isaac</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Isaac_Call(1780-1793)">
+        <rdfs:label>Birth of Isaac Call(1780-1793)</rdfs:label>
+        <bio:date>24 Apr 1780</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Isaac_Call(1780-1793)">
+        <rdfs:label>Death of Isaac Call(1780-1793)</rdfs:label>
+        <bio:date> 1 Dec 1793</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)">
+    <rdfs:label>Eunice Call(1782-1862)</rdfs:label>
+    <foaf:name>Eunice</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Silas_John_Nims(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Eunice_Call(1782-1862)">
+        <rdfs:label>Birth of Eunice Call(1782-1862)</rdfs:label>
+        <bio:date>28 May 1782</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Eunice_Call(1782-1862)">
+        <rdfs:label>Death of Eunice Call(1782-1862)</rdfs:label>
+        <bio:date>16 Mar 1862</bio:date>
+        <bio:place>Hadley, Saratoga, New York</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Silas_John_Nims(%3F-%3F)">
+    <rdfs:label>Silas John Nims(?-?)</rdfs:label>
+    <foaf:name>Silas John</foaf:name>
+    <foaf:surname>Nims</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Silas_John_Nims(%3F-%3F)">
+        <rdfs:label>Birth of Silas John Nims(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)">
+    <rdfs:label>Joel Call(1785-?)</rdfs:label>
+    <foaf:name>Joel</foaf:name>
+    <foaf:surname>Call</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Eliza_Totman(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1765-1766)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1770-1777)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1772-1776)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Lucy_Call(1774-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Isaac_Call(1780-1793)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Joel_Call(1785-%3F)">
+        <rdfs:label>Birth of Joel Call(1785-?)</rdfs:label>
+        <bio:date>21 Feb 1785</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Eliza_Totman(%3F-%3F)">
+    <rdfs:label>Eliza Totman(?-?)</rdfs:label>
+    <foaf:name>Eliza</foaf:name>
+    <foaf:surname>Totman</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Eliza_Totman(%3F-%3F)">
+        <rdfs:label>Birth of Eliza Totman(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mary_Disney(1838-%3F)">
+    <rdfs:label>Mary Disney(1838-?)</rdfs:label>
+    <foaf:name>Mary</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charlotte_Disney(1850-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Disney(1851-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Disney(1853-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hariette_Disney(1856-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_R._Disney(1858-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Mary_Disney(1838-%3F)">
+        <rdfs:label>Birth of Mary Disney(1838-?)</rdfs:label>
+        <bio:date>ABT 1838</bio:date>
+        <bio:place>, , Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)">
+    <rdfs:label>Elias Disney(1843-1913)</rdfs:label>
+    <foaf:name>Elias</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Barbara_Elizabeth_Boyer(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Disney(1838-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charlotte_Disney(1850-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Disney(1851-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Disney(1853-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hariette_Disney(1856-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_R._Disney(1858-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Elias_Disney(1843-1913)">
+        <rdfs:label>Birth of Elias Disney(1843-1913)</rdfs:label>
+        <bio:date> 4 Apr 1843</bio:date>
+        <bio:place>Strathroy, Ontario</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Elias_Disney(1843-1913)">
+        <rdfs:label>Death of Elias Disney(1843-1913)</rdfs:label>
+        <bio:date> 3 Mar 1913</bio:date>
+        <bio:place>Hutchinson, Reno, Kansas</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Barbara_Elizabeth_Boyer(%3F-%3F)">
+    <rdfs:label>Barbara Elizabeth Boyer(?-?)</rdfs:label>
+    <foaf:name>Barbara Elizabeth</foaf:name>
+    <foaf:surname>Boyer</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Barbara_Elizabeth_Boyer(%3F-%3F)">
+        <rdfs:label>Birth of Barbara Elizabeth Boyer(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Charlotte_Disney(1850-%3F)">
+    <rdfs:label>Charlotte Disney(1850-?)</rdfs:label>
+    <foaf:name>Charlotte</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Disney(1838-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Disney(1851-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Disney(1853-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hariette_Disney(1856-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_R._Disney(1858-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Charlotte_Disney(1850-%3F)">
+        <rdfs:label>Birth of Charlotte Disney(1850-?)</rdfs:label>
+        <bio:date>ABT 1850</bio:date>
+        <bio:place>, , Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Thomas_Disney(1851-%3F)">
+    <rdfs:label>Thomas Disney(1851-?)</rdfs:label>
+    <foaf:name>Thomas</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Disney(1838-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charlotte_Disney(1850-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Disney(1853-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hariette_Disney(1856-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_R._Disney(1858-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Thomas_Disney(1851-%3F)">
+        <rdfs:label>Birth of Thomas Disney(1851-?)</rdfs:label>
+        <bio:date>ABT 1851</bio:date>
+        <bio:place>, , Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/James_Disney(1853-%3F)">
+    <rdfs:label>James Disney(1853-?)</rdfs:label>
+    <foaf:name>James</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Disney(1838-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charlotte_Disney(1850-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Disney(1851-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hariette_Disney(1856-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_R._Disney(1858-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_James_Disney(1853-%3F)">
+        <rdfs:label>Birth of James Disney(1853-?)</rdfs:label>
+        <bio:date>ABT 1853</bio:date>
+        <bio:place>, , Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Hariette_Disney(1856-%3F)">
+    <rdfs:label>Hariette Disney(1856-?)</rdfs:label>
+    <foaf:name>Hariette</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Disney(1838-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charlotte_Disney(1850-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Disney(1851-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Disney(1853-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_R._Disney(1858-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Hariette_Disney(1856-%3F)">
+        <rdfs:label>Birth of Hariette Disney(1856-?)</rdfs:label>
+        <bio:date>ABT 1856</bio:date>
+        <bio:place>, , Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Arundel_R._Disney(1858-%3F)">
+    <rdfs:label>Arundel R. Disney(1858-?)</rdfs:label>
+    <foaf:name>Arundel R.</foaf:name>
+    <foaf:surname>Disney</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Disney(1838-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Charlotte_Disney(1850-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Disney(1851-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Disney(1853-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Hariette_Disney(1856-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Arundel_R._Disney(1858-%3F)">
+        <rdfs:label>Birth of Arundel R. Disney(1858-?)</rdfs:label>
+        <bio:date>ABT 1858</bio:date>
+        <bio:place>, , Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/James_Richardson(1832-%3F)">
+    <rdfs:label>James Richardson(1832-?)</rdfs:label>
+    <foaf:name>James</foaf:name>
+    <foaf:surname>Richardson</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Ruth_Lark(1797-1876)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Robert_Richardson(1796-1861)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Richardson(1838-1909)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Richardson(1843-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joseph_Richardson(1839-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_James_Richardson(1832-%3F)">
+        <rdfs:label>Birth of James Richardson(1832-?)</rdfs:label>
+        <bio:date>ABT 1832</bio:date>
+        <bio:place>, , Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/John_Richardson(1843-%3F)">
+    <rdfs:label>John Richardson(1843-?)</rdfs:label>
+    <foaf:name>John</foaf:name>
+    <foaf:surname>Richardson</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Ruth_Lark(1797-1876)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Robert_Richardson(1796-1861)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Richardson(1838-1909)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Richardson(1832-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Joseph_Richardson(1839-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_John_Richardson(1843-%3F)">
+        <rdfs:label>Birth of John Richardson(1843-?)</rdfs:label>
+        <bio:date>ABT 1843</bio:date>
+        <bio:place>, , Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Joseph_Richardson(1839-%3F)">
+    <rdfs:label>Joseph Richardson(1839-?)</rdfs:label>
+    <foaf:name>Joseph</foaf:name>
+    <foaf:surname>Richardson</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Ruth_Lark(1797-1876)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Robert_Richardson(1796-1861)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Richardson(1838-1909)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/James_Richardson(1832-%3F)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Richardson(1843-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Joseph_Richardson(1839-%3F)">
+        <rdfs:label>Birth of Joseph Richardson(1839-?)</rdfs:label>
+        <bio:date>ABT 1839</bio:date>
+        <bio:place>, , Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Christian_Henry_Gross(1841-1929)">
+    <rdfs:label>Christian Henry Gross(1841-1929)</rdfs:label>
+    <foaf:name>Christian Henry</foaf:name>
+    <foaf:surname>Gross</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Amelia_Emma_Hirshberger(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Catharine_Hannah_Smith(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_George_Gross(1805-1886)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Catherine_Hanna_Gross(1845-1921)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Henry_Gross(1849-1925)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Christian_Henry_Gross(1841-1929)">
+        <rdfs:label>Birth of Christian Henry Gross(1841-1929)</rdfs:label>
+        <bio:date> 9 Feb 1841</bio:date>
+        <bio:place>Miehlen, Hesse, Prussia</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Christian_Henry_Gross(1841-1929)">
+        <rdfs:label>Death of Christian Henry Gross(1841-1929)</rdfs:label>
+        <bio:date>23 Jul 1929</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Amelia_Emma_Hirshberger(%3F-%3F)">
+    <rdfs:label>Amelia Emma Hirshberger(?-?)</rdfs:label>
+    <foaf:name>Amelia Emma</foaf:name>
+    <foaf:surname>Hirshberger</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Christian_Henry_Gross(1841-1929)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Amelia_Emma_Hirshberger(%3F-%3F)">
+        <rdfs:label>Birth of Amelia Emma Hirshberger(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Catherine_Hanna_Gross(1845-1921)">
+    <rdfs:label>Catherine Hanna Gross(1845-1921)</rdfs:label>
+    <foaf:name>Catherine Hanna</foaf:name>
+    <foaf:surname>Gross</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/John_Appleton_Kelley(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Catharine_Hannah_Smith(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_George_Gross(1805-1886)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Christian_Henry_Gross(1841-1929)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/John_Henry_Gross(1849-1925)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Catherine_Hanna_Gross(1845-1921)">
+        <rdfs:label>Birth of Catherine Hanna Gross(1845-1921)</rdfs:label>
+        <bio:date>14 Feb 1845</bio:date>
+        <bio:place>Ottumwa, Wapello, Iowa</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Catherine_Hanna_Gross(1845-1921)">
+        <rdfs:label>Death of Catherine Hanna Gross(1845-1921)</rdfs:label>
+        <bio:date>28 May 1921</bio:date>
+        <bio:place>Oskaloosa, Mahska, Iowa</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/John_Appleton_Kelley(%3F-%3F)">
+    <rdfs:label>John Appleton Kelley(?-?)</rdfs:label>
+    <foaf:name>John Appleton</foaf:name>
+    <foaf:surname>Kelley</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Catherine_Hanna_Gross(1845-1921)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_John_Appleton_Kelley(%3F-%3F)">
+        <rdfs:label>Birth of John Appleton Kelley(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/John_Henry_Gross(1849-1925)">
+    <rdfs:label>John Henry Gross(1849-1925)</rdfs:label>
+    <foaf:name>John Henry</foaf:name>
+    <foaf:surname>Gross</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Mary_Graves(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Catharine_Hannah_Smith(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John_George_Gross(1805-1886)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Christian_Henry_Gross(1841-1929)"/>
+    <rel:siblingOf rdf:resource="http://my-family-lineage.com/wiki/Catherine_Hanna_Gross(1845-1921)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_John_Henry_Gross(1849-1925)">
+        <rdfs:label>Birth of John Henry Gross(1849-1925)</rdfs:label>
+        <bio:date>21 Oct 1849</bio:date>
+        <bio:place>, Marion County, Iowa</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_John_Henry_Gross(1849-1925)">
+        <rdfs:label>Death of John Henry Gross(1849-1925)</rdfs:label>
+        <bio:date>12 Dec 1925</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mary_Graves(%3F-%3F)">
+    <rdfs:label>Mary Graves(?-?)</rdfs:label>
+    <foaf:name>Mary</foaf:name>
+    <foaf:surname>Graves</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/John_Henry_Gross(1849-1925)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Mary_Graves(%3F-%3F)">
+        <rdfs:label>Birth of Mary Graves(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Moses_Johnson(1737-1815)">
+    <rdfs:label>Moses Johnson(1737-1815)</rdfs:label>
+    <foaf:name>Moses</foaf:name>
+    <foaf:surname>Johnson</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Mercy_Fox(1740-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Moses_Johnson(1737-1815)">
+        <rdfs:label>Birth of Moses Johnson(1737-1815)</rdfs:label>
+        <bio:date>26 Jul 1737</bio:date>
+        <bio:place>Woodstock, Windham, Conn.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Moses_Johnson(1737-1815)">
+        <rdfs:label>Death of Moses Johnson(1737-1815)</rdfs:label>
+        <bio:date> 3 Aug 1815</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mercy_Fox(1740-%3F)">
+    <rdfs:label>Mercy Fox(1740-?)</rdfs:label>
+    <foaf:name>Mercy</foaf:name>
+    <foaf:surname>Fox</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Moses_Johnson(1737-1815)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mercy_Lawrence(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Fox(1706-1793)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Mercy_Fox(1740-%3F)">
+        <rdfs:label>Birth of Mercy Fox(1740-?)</rdfs:label>
+        <bio:date>10 MAR 1740/1741</bio:date>
+        <bio:place>Roxbury, Suffolk, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Thomas_Fox(1706-1793)">
+    <rdfs:label>Thomas Fox(1706-1793)</rdfs:label>
+    <foaf:name>Thomas</foaf:name>
+    <foaf:surname>Fox</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Mercy_Lawrence(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Hannah_Burroughs(1680-1746)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Jabez_Fox(%3F-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Thomas_Fox(1706-1793)">
+        <rdfs:label>Birth of Thomas Fox(1706-1793)</rdfs:label>
+        <bio:date> 6 Dec 1706</bio:date>
+        <bio:place>Boston, Suffolk, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Thomas_Fox(1706-1793)">
+        <rdfs:label>Death of Thomas Fox(1706-1793)</rdfs:label>
+        <bio:date>13 Mar 1793</bio:date>
+        <bio:place>Woodstock, Windham, Conn.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mercy_Lawrence(%3F-%3F)">
+    <rdfs:label>Mercy Lawrence(?-?)</rdfs:label>
+    <foaf:name>Mercy</foaf:name>
+    <foaf:surname>Lawrence</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Thomas_Fox(1706-1793)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Mercy_Lawrence(%3F-%3F)">
+        <rdfs:label>Birth of Mercy Lawrence(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Jabez_Fox(%3F-%3F)">
+    <rdfs:label>Jabez Fox(?-?)</rdfs:label>
+    <foaf:name>Jabez</foaf:name>
+    <foaf:surname>Fox</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Hannah_Burroughs(1680-1746)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Jabez_Fox(%3F-%3F)">
+        <rdfs:label>Birth of Jabez Fox(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Hannah_Burroughs(1680-1746)">
+    <rdfs:label>Hannah Burroughs(1680-1746)</rdfs:label>
+    <foaf:name>Hannah</foaf:name>
+    <foaf:surname>Burroughs</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Jabez_Fox(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Hannah_(%3F-%3F)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/George_Burroughs(1650-1692)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Hannah_Burroughs(1680-1746)">
+        <rdfs:label>Birth of Hannah Burroughs(1680-1746)</rdfs:label>
+        <bio:date>27 Apr 1680</bio:date>
+        <bio:place>Salisbury, Essex, Mass.</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_Hannah_Burroughs(1680-1746)">
+        <rdfs:label>Death of Hannah Burroughs(1680-1746)</rdfs:label>
+        <bio:date> 5 Aug 1746</bio:date>
+        <bio:place>Woburn, Middlesex, Mass.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/George_Burroughs(1650-1692)">
+    <rdfs:label>George Burroughs(1650-1692)</rdfs:label>
+    <foaf:name>George</foaf:name>
+    <foaf:surname>Burroughs</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Hannah_(%3F-%3F)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_George_Burroughs(1650-1692)">
+        <rdfs:label>Birth of George Burroughs(1650-1692)</rdfs:label>
+        <bio:date>ABT 1650</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death rdf:about="http://my-family-lineage.com/wiki/Death_of_George_Burroughs(1650-1692)">
+        <rdfs:label>Death of George Burroughs(1650-1692)</rdfs:label>
+        <bio:date>19 Aug 1692</bio:date>
+        <bio:place>Salem, Essex, Mass.</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Hannah_(%3F-%3F)">
+    <rdfs:label>Hannah (?-?)</rdfs:label>
+    <foaf:name>Hannah</foaf:name>
+    <foaf:surname></foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/George_Burroughs(1650-1692)"/>
+    <bio:event>
+      <bio:Birth rdf:about="http://my-family-lineage.com/wiki/Birth_of_Hannah_(%3F-%3F)">
+        <rdfs:label>Birth of Hannah (?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Flora_Call(1868-1938)_and_Elias_Disney(1859-1941)">
+    <rdfs:label>Family of Flora Call(1868-1938) and Elias Disney(1859-1941)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Flora_Call(1868-1938)_and_Elias_Disney(1859-1941)">
+        <rdfs:label>Marriage of Flora Call(1868-1938) and Elias Disney(1859-1941)</rdfs:label>
+        <bio:date> 1 Jan 1888</bio:date>
+        <bio:place>Akron, Lake, Florida</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Flora_Call(1868-1938)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1859-1941)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Mary_Richardson(1838-1909)_and_Kepple_Disney(1832-1891)">
+    <rdfs:label>Family of Mary Richardson(1838-1909) and Kepple Disney(1832-1891)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Mary_Richardson(1838-1909)_and_Kepple_Disney(1832-1891)">
+        <rdfs:label>Marriage of Mary Richardson(1838-1909) and Kepple Disney(1832-1891)</rdfs:label>
+        <bio:date>18 Mar 1858</bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Mary_Richardson(1838-1909)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Kepple_Disney(1832-1891)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Lillian_M._Bounds(1899-1997)_and_Walter_Elias_Disney(1901-1966)">
+    <rdfs:label>Family of Lillian M. Bounds(1899-1997) and Walter Elias Disney(1901-1966)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Lillian_M._Bounds(1899-1997)_and_Walter_Elias_Disney(1901-1966)">
+        <rdfs:label>Marriage of Lillian M. Bounds(1899-1997) and Walter Elias Disney(1901-1966)</rdfs:label>
+        <bio:date>13 Jul 1925</bio:date>
+        <bio:place>Lewiston, Nez Perce, Idaho</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Lillian_M._Bounds(1899-1997)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Walter_Elias_Disney(1901-1966)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Maria_Swan(1815-1896)_and_Arundel_Elias_Disney(1803-%3F)">
+    <rdfs:label>Family of Maria Swan(1815-1896) and Arundel Elias Disney(1803-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Maria_Swan(1815-1896)_and_Arundel_Elias_Disney(1803-%3F)">
+        <rdfs:label>Marriage of Maria Swan(1815-1896) and Arundel Elias Disney(1803-?)</rdfs:label>
+        <bio:date>BEF 1832</bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Maria_Swan(1815-1896)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Arundel_Elias_Disney(1803-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Ruth_Lark(1797-1876)_and_Robert_Richardson(1796-1861)">
+    <rdfs:label>Family of Ruth Lark(1797-1876) and Robert Richardson(1796-1861)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Ruth_Lark(1797-1876)_and_Robert_Richardson(1796-1861)">
+        <rdfs:label>Marriage of Ruth Lark(1797-1876) and Robert Richardson(1796-1861)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Ruth_Lark(1797-1876)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Robert_Richardson(1796-1861)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Henrietta_Gross(1837-1910)_and_Charles_Call(1822-1890)">
+    <rdfs:label>Family of Henrietta Gross(1837-1910) and Charles Call(1822-1890)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Henrietta_Gross(1837-1910)_and_Charles_Call(1822-1890)">
+        <rdfs:label>Marriage of Henrietta Gross(1837-1910) and Charles Call(1822-1890)</rdfs:label>
+        <bio:date> 9 Sep 1855</bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Henrietta_Gross(1837-1910)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Charles_Call(1822-1890)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Violette_Lawrence(1792-1870)_and_Eber_Call(1791-%3F)">
+    <rdfs:label>Family of Violette Lawrence(1792-1870) and Eber Call(1791-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Violette_Lawrence(1792-1870)_and_Eber_Call(1791-%3F)">
+        <rdfs:label>Marriage of Violette Lawrence(1792-1870) and Eber Call(1791-?)</rdfs:label>
+        <bio:date>10 Sep 1816</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Violette_Lawrence(1792-1870)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Eber_Call(1791-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Catharine_Hannah_Smith(%3F-%3F)_and_John_George_Gross(1805-1886)">
+    <rdfs:label>Family of Catharine Hannah Smith(?-?) and John George Gross(1805-1886)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Catharine_Hannah_Smith(%3F-%3F)_and_John_George_Gross(1805-1886)">
+        <rdfs:label>Marriage of Catharine Hannah Smith(?-?) and John George Gross(1805-1886)</rdfs:label>
+        <bio:date>10 Jun 1838</bio:date>
+        <bio:place>Miehlen, Hesse, Prussia</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Catharine_Hannah_Smith(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/John_George_Gross(1805-1886)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Fanny_Johnson(1764-1801)_and_John_Call(1761-1831)">
+    <rdfs:label>Family of Fanny Johnson(1764-1801) and John Call(1761-1831)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Fanny_Johnson(1764-1801)_and_John_Call(1761-1831)">
+        <rdfs:label>Marriage of Fanny Johnson(1764-1801) and John Call(1761-1831)</rdfs:label>
+        <bio:date> 6 Dec 1784</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Fanny_Johnson(1764-1801)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/John_Call(1761-1831)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Lucy_Chaffee(%3F-%3F)_and_John_Call(%3F-%3F)">
+    <rdfs:label>Family of Lucy Chaffee(?-?) and John Call(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Lucy_Chaffee(%3F-%3F)_and_John_Call(%3F-%3F)">
+        <rdfs:label>Marriage of Lucy Chaffee(?-?) and John Call(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Lucy_Chaffee(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/John_Call(%3F-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Elizabeth_Call(1763-%3F)_and_Jacob_Randall(%3F-%3F)">
+    <rdfs:label>Family of Elizabeth Call(1763-?) and Jacob Randall(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Elizabeth_Call(1763-%3F)_and_Jacob_Randall(%3F-%3F)">
+        <rdfs:label>Marriage of Elizabeth Call(1763-?) and Jacob Randall(?-?)</rdfs:label>
+        <bio:date>28 Mar 1792</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Elizabeth_Call(1763-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Jacob_Randall(%3F-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Martha_Emeline_Howard(%3F-%3F)_and_Stephen_Call(1768-1848)">
+    <rdfs:label>Family of Martha Emeline Howard(?-?) and Stephen Call(1768-1848)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Martha_Emeline_Howard(%3F-%3F)_and_Stephen_Call(1768-1848)">
+        <rdfs:label>Marriage of Martha Emeline Howard(?-?) and Stephen Call(1768-1848)</rdfs:label>
+        <bio:date>17 Aug 1786</bio:date>
+        <bio:place>Ashfield, Franklin, Mass.</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Martha_Emeline_Howard(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Stephen_Call(1768-1848)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Abigail_Call(1776-1838)_and_Joseph_Stone(%3F-%3F)">
+    <rdfs:label>Family of Abigail Call(1776-1838) and Joseph Stone(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Abigail_Call(1776-1838)_and_Joseph_Stone(%3F-%3F)">
+        <rdfs:label>Marriage of Abigail Call(1776-1838) and Joseph Stone(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Abigail_Call(1776-1838)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Joseph_Stone(%3F-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Mercy_Purinton(%3F-%3F)_and_Levi_Call(1778-1868)">
+    <rdfs:label>Family of Mercy Purinton(?-?) and Levi Call(1778-1868)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Mercy_Purinton(%3F-%3F)_and_Levi_Call(1778-1868)">
+        <rdfs:label>Marriage of Mercy Purinton(?-?) and Levi Call(1778-1868)</rdfs:label>
+        <bio:date> 2 Sep 1798</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Mercy_Purinton(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Levi_Call(1778-1868)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Eunice_Call(1782-1862)_and_Silas_John_Nims(%3F-%3F)">
+    <rdfs:label>Family of Eunice Call(1782-1862) and Silas John Nims(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Eunice_Call(1782-1862)_and_Silas_John_Nims(%3F-%3F)">
+        <rdfs:label>Marriage of Eunice Call(1782-1862) and Silas John Nims(?-?)</rdfs:label>
+        <bio:date>24 Aug 1799</bio:date>
+        <bio:place>Buckland, Franklin, Mass.</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Eunice_Call(1782-1862)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Silas_John_Nims(%3F-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Eliza_Totman(%3F-%3F)_and_Joel_Call(1785-%3F)">
+    <rdfs:label>Family of Eliza Totman(?-?) and Joel Call(1785-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Eliza_Totman(%3F-%3F)_and_Joel_Call(1785-%3F)">
+        <rdfs:label>Marriage of Eliza Totman(?-?) and Joel Call(1785-?)</rdfs:label>
+        <bio:date>31 Dec 1807</bio:date>
+        <bio:place>Colrain, Franklin, Mass.</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Eliza_Totman(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Joel_Call(1785-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Barbara_Elizabeth_Boyer(%3F-%3F)_and_Elias_Disney(1843-1913)">
+    <rdfs:label>Family of Barbara Elizabeth Boyer(?-?) and Elias Disney(1843-1913)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Barbara_Elizabeth_Boyer(%3F-%3F)_and_Elias_Disney(1843-1913)">
+        <rdfs:label>Marriage of Barbara Elizabeth Boyer(?-?) and Elias Disney(1843-1913)</rdfs:label>
+        <bio:date>20 May 1909</bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Barbara_Elizabeth_Boyer(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Elias_Disney(1843-1913)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Amelia_Emma_Hirshberger(%3F-%3F)_and_Christian_Henry_Gross(1841-1929)">
+    <rdfs:label>Family of Amelia Emma Hirshberger(?-?) and Christian Henry Gross(1841-1929)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Amelia_Emma_Hirshberger(%3F-%3F)_and_Christian_Henry_Gross(1841-1929)">
+        <rdfs:label>Marriage of Amelia Emma Hirshberger(?-?) and Christian Henry Gross(1841-1929)</rdfs:label>
+        <bio:date>19 Apr 1866</bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Amelia_Emma_Hirshberger(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Christian_Henry_Gross(1841-1929)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Catherine_Hanna_Gross(1845-1921)_and_John_Appleton_Kelley(%3F-%3F)">
+    <rdfs:label>Family of Catherine Hanna Gross(1845-1921) and John Appleton Kelley(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Catherine_Hanna_Gross(1845-1921)_and_John_Appleton_Kelley(%3F-%3F)">
+        <rdfs:label>Marriage of Catherine Hanna Gross(1845-1921) and John Appleton Kelley(?-?)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Catherine_Hanna_Gross(1845-1921)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/John_Appleton_Kelley(%3F-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Mary_Graves(%3F-%3F)_and_John_Henry_Gross(1849-1925)">
+    <rdfs:label>Family of Mary Graves(?-?) and John Henry Gross(1849-1925)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Mary_Graves(%3F-%3F)_and_John_Henry_Gross(1849-1925)">
+        <rdfs:label>Marriage of Mary Graves(?-?) and John Henry Gross(1849-1925)</rdfs:label>
+        <bio:date>17 Oct 1883</bio:date>
+        <bio:place>Norwalk, Huron, Ohio</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Mary_Graves(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/John_Henry_Gross(1849-1925)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Mercy_Fox(1740-%3F)_and_Moses_Johnson(1737-1815)">
+    <rdfs:label>Family of Mercy Fox(1740-?) and Moses Johnson(1737-1815)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Mercy_Fox(1740-%3F)_and_Moses_Johnson(1737-1815)">
+        <rdfs:label>Marriage of Mercy Fox(1740-?) and Moses Johnson(1737-1815)</rdfs:label>
+        <bio:date> 5 Jul 1757</bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Mercy_Fox(1740-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Moses_Johnson(1737-1815)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Mercy_Lawrence(%3F-%3F)_and_Thomas_Fox(1706-1793)">
+    <rdfs:label>Family of Mercy Lawrence(?-?) and Thomas Fox(1706-1793)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Mercy_Lawrence(%3F-%3F)_and_Thomas_Fox(1706-1793)">
+        <rdfs:label>Marriage of Mercy Lawrence(?-?) and Thomas Fox(1706-1793)</rdfs:label>
+        <bio:date> 7 Nov 1729</bio:date>
+        <bio:place>Woodstock, Windham, Conn.</bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Mercy_Lawrence(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Thomas_Fox(1706-1793)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Hannah_Burroughs(1680-1746)_and_Jabez_Fox(%3F-%3F)">
+    <rdfs:label>Family of Hannah Burroughs(1680-1746) and Jabez Fox(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Hannah_Burroughs(1680-1746)_and_Jabez_Fox(%3F-%3F)">
+        <rdfs:label>Marriage of Hannah Burroughs(1680-1746) and Jabez Fox(?-?)</rdfs:label>
+        <bio:date>8 MAR 1704/1705</bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Hannah_Burroughs(1680-1746)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Jabez_Fox(%3F-%3F)"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="http://my-family-lineage.com/wiki/Family_of_Hannah_(%3F-%3F)_and_George_Burroughs(1650-1692)">
+    <rdfs:label>Family of Hannah (?-?) and George Burroughs(1650-1692)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:event>
+      <bio:Marriage rdf:about="http://my-family-lineage.com/wiki/Marriage_of_Hannah_(%3F-%3F)_and_George_Burroughs(1650-1692)">
+        <rdfs:label>Marriage of Hannah (?-?) and George Burroughs(1650-1692)</rdfs:label>
+        <bio:date></bio:date>
+        <bio:place></bio:place>
+      </bio:Marriage>
+    </bio:event>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Hannah_(%3F-%3F)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/George_Burroughs(1650-1692)"/>
+  </foaf:Group>
+</rdf:RDF>
