@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:rel="http://purl.org/vocab/relationship/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:bio="http://purl.org/vocab/bio/0.1/">
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Bruce Jr Whealton(1966-?)">
+    <foaf:name>Bruce Jr</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Elnaz Rezaei Ghalechi(1981-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Kathleen Murphy(1940-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Bruce Martin Whealton(1940-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>BET APR 22 AND 1966</bio:date>
+        <bio:place>New Britain, Connecticut, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Graduation>
+        <bio:date> 1 May 1984</bio:date>
+        <bio:organization>Souhthington, CT</bio:organization>
+      </bio:Graduation>
+    </bio:event>
+    <bio:event>
+      <bio:Graduation>
+        <bio:date>ABT 04 DEC 1989</bio:date>
+        <bio:organization>Georgia Institute Of Technology, Atlanta, GA</bio:organization>
+      </bio:Graduation>
+    </bio:event>
+    <bio:event>
+      <bio:Graduation>
+        <bio:date>ABT MAY 1996</bio:date>
+        <bio:organization>Columbia, SC - University Of South Carolina</bio:organization>
+      </bio:Graduation>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Samual Jones(?-?)">
+    <foaf:name>Samual</foaf:name>
+    <foaf:surname>Jones</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Alexandria Ives(?-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Alexandria Ives(?-?)">
+    <foaf:name>Alexandria</foaf:name>
+    <foaf:surname>Ives</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Samual Jones(?-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Edwin Wells(?-?)">
+    <foaf:name>Edwin</foaf:name>
+    <foaf:surname>Wells</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Caroline Miller(?-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Caroline Miller(?-?)">
+    <foaf:name>Caroline</foaf:name>
+    <foaf:surname>Miller</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Edwin Wells(?-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Henry Jones(?-?)">
+    <foaf:name>Henry</foaf:name>
+    <foaf:surname>Jones</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Annie Fell(?-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Annie Fell(?-?)">
+    <foaf:name>Annie</foaf:name>
+    <foaf:surname>Fell</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Henry Jones(?-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Kathleen Murphy(1940-?)">
+    <foaf:name>Kathleen</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Bruce Martin Whealton(1940-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mabel Wells Murphy(1900-1979)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Maureen E. Bingham(1932-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>27 Aug 1940</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mabel Wells Murphy(1900-1979)">
+    <foaf:name>Mabel</foaf:name>
+    <foaf:surname>Wells Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/John W. Murphy(1892-1979)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Caroline Miller(?-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Edwin Wells(?-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Aug 1900</bio:date>
+        <bio:place>Connecticut</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 7 Dec 1979</bio:date>
+        <bio:place>New Britain, Connecticut</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Maureen E. Bingham(1932-?)">
+    <foaf:name>Maureen E.</foaf:name>
+    <foaf:surname>Bingham</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mabel Wells Murphy(1900-1979)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Kathleen Murphy(1940-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Sep 1932</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Delilah Carter(1812-1889)">
+    <foaf:name>Delilah</foaf:name>
+    <foaf:surname>Carter</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Leven E. Whealton(1811-1881)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1812</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 4 Aug 1889</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Tildon Whealton(1876-1923)">
+    <foaf:name>Tildon</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Whealton(1844-1916)"/>
+    <rel:siblingOf rdf:resource="Clara Whealton(1881-1949)"/>
+    <rel:siblingOf rdf:resource="Deamos Whealton(1873-1955)"/>
+    <rel:siblingOf rdf:resource="Leven Whealton(1887-1955)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>24 Jul 1876</bio:date>
+        <bio:place>Beaufort, North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>1923</bio:date>
+        <bio:place>South Creek, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)">
+    <foaf:name>Josephine</foaf:name>
+    <foaf:surname>Jones</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Whealton(1845-1916)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1847</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>1927</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Teresa G Rimmer(1963-?)">
+    <foaf:name>Teresa G</foaf:name>
+    <foaf:surname>Rimmer</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Feb 1963</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Leven E. Whealton(1811-1881)">
+    <foaf:name>Leven E.</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Delilah Carter(1812-1889)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Chloe Dowdy(1775-1840)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Leven Easter Whealton(1811-1886)"/>
+    <rel:siblingOf rdf:resource="Levin Easter Whealton(1811-1881)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1811</bio:date>
+        <bio:place>Mesic,  Pamlico,  North Carolina,  United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 2 Sep 1881</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Leven Easter Whealton(1784-1813)">
+    <foaf:name>Leven Easter</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Mary Chloe Dowdy(1775-1840)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)"/>
+    <rel:siblingOf rdf:resource="Martha Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Nancy Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Smith Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Elijah Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Whealton(1789-?)"/>
+    <rel:siblingOf rdf:resource="Mary Whealton(1794-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1784</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 1 Nov 1813</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mary Chloe Dowdy(1775-1840)">
+    <foaf:name>Mary Chloe</foaf:name>
+    <foaf:surname>Dowdy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Leven Easter Whealton(1784-1813)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Eliashe Jacob(1744-1792)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Elisha DOUGHTY(1744-1792)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1775</bio:date>
+        <bio:place>North Carolina,  United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>1840</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/George Warren Whealton(1838-1895)">
+    <foaf:name>George Warren</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Delilah Carter(1812-1889)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven E. Whealton(1811-1881)"/>
+    <rel:siblingOf rdf:resource="Laura E Whealton(1882-1951)"/>
+    <rel:siblingOf rdf:resource="Stephen Whealton(1844-1916)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>10 Oct 1838</bio:date>
+        <bio:place>North Carolina,  United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>11 Aug 1895</bio:date>
+        <bio:place>Mesic,  Pamlico,  North Carolina,  United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Laura E Whealton(1882-1951)">
+    <foaf:name>Laura E</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Delilah Carter(1812-1889)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven E. Whealton(1811-1881)"/>
+    <rel:siblingOf rdf:resource="George Warren Whealton(1838-1895)"/>
+    <rel:siblingOf rdf:resource="Stephen Whealton(1844-1916)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>15 Jan 1882</bio:date>
+        <bio:place>Pamlico,  North Carolina,  United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 4 Jan 1951</bio:date>
+        <bio:place>Guildford,  North Carolina,  United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Etta Jones Martin(1895-1978)">
+    <foaf:name>Etta Jones</foaf:name>
+    <foaf:surname>Martin</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/William Henry Martin(1891-1965)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Annie Fell(?-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henry Jones(?-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>30 Jan 1895</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>26 Jan 1978</bio:date>
+        <bio:place>Aurora, Beaufort, North Carolina, United States of America</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)">
+    <foaf:name>Levin D</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Scarburgh Corbin(1719-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/William Whealton(?-1787)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1750</bio:date>
+        <bio:place>Accomack Parish, Accomack, Virginia, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>1801</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Levin Easter Whealton(1811-1881)">
+    <foaf:name>Levin Easter</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Chloe Dowdy(1775-1840)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Leven Easter Whealton(1811-1886)"/>
+    <rel:siblingOf rdf:resource="Leven E. Whealton(1811-1881)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1811</bio:date>
+        <bio:place>Mesic,  Pamlico,  North Carolina,  United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 2 Sep 1881</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Elnaz Rezaei Ghalechi(1981-?)">
+    <foaf:name>Elnaz</foaf:name>
+    <foaf:surname>Rezaei Ghalechi</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Bruce Jr Whealton(1966-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>19 Sep 1981</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Celta C Head(1958-1990)">
+    <foaf:name>Celta C</foaf:name>
+    <foaf:surname>Head</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>13 May 1958</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>31 Dec 1990</bio:date>
+        <bio:place>Clarke, Georgia</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Leven Easter Whealton(1811-1886)">
+    <foaf:name>Leven Easter</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Chloe Dowdy(1775-1840)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Levin Easter Whealton(1811-1881)"/>
+    <rel:siblingOf rdf:resource="Leven E. Whealton(1811-1881)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1811</bio:date>
+        <bio:place>Bay Creek, Craven, North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 4 Dec 1886</bio:date>
+        <bio:place>Craven, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Eliashe Jacob(1744-1792)">
+    <foaf:name>Eliashe</foaf:name>
+    <foaf:surname>Jacob</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Elisha DOUGHTY(1744-1792)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1744</bio:date>
+        <bio:place>Virginia, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 1 Jan 1792</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Elisha DOUGHTY(1744-1792)">
+    <foaf:name>Elisha</foaf:name>
+    <foaf:surname>DOUGHTY</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Eliashe Jacob(1744-1792)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1744</bio:date>
+        <bio:place>Northampton County, North Carolina, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>11 Jan 1792</bio:date>
+        <bio:place>Beaufort, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Scarburgh Corbin(1719-?)">
+    <foaf:name>Scarburgh</foaf:name>
+    <foaf:surname>Corbin</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/William Whealton(?-1787)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Anne (1695-1766)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Robert Corbin(1682-1743)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1719</bio:date>
+        <bio:place>Accomack, Virginia, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date></bio:date>
+        <bio:place>Accomack Parish, Accomack, Virginia, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Elizabeth Whealton(1789-?)">
+    <foaf:name>Elizabeth</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)"/>
+    <rel:siblingOf rdf:resource="Martha Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Nancy Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Smith Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Elijah Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Mary Whealton(1794-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1789</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mary Whealton(1794-?)">
+    <foaf:name>Mary</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)"/>
+    <rel:siblingOf rdf:resource="Martha Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Nancy Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Smith Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Elijah Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Whealton(1789-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1794</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Elijah Whealton(?-?)">
+    <foaf:name>Elijah</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)"/>
+    <rel:siblingOf rdf:resource="Martha Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Nancy Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Smith Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Whealton(1789-?)"/>
+    <rel:siblingOf rdf:resource="Mary Whealton(1794-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Martha Whealton(?-?)">
+    <foaf:name>Martha</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)"/>
+    <rel:siblingOf rdf:resource="Nancy Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Smith Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Elijah Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Whealton(1789-?)"/>
+    <rel:siblingOf rdf:resource="Mary Whealton(1794-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Nancy Whealton(?-?)">
+    <foaf:name>Nancy</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)"/>
+    <rel:siblingOf rdf:resource="Martha Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Smith Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Elijah Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Whealton(1789-?)"/>
+    <rel:siblingOf rdf:resource="Mary Whealton(1794-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Smith Whealton(?-?)">
+    <foaf:name>Smith</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)"/>
+    <rel:siblingOf rdf:resource="Martha Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Nancy Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Elijah Whealton(?-?)"/>
+    <rel:siblingOf rdf:resource="Leven Easter Whealton(1784-1813)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Whealton(1789-?)"/>
+    <rel:siblingOf rdf:resource="Mary Whealton(1794-?)"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Robert Corbin(1682-1743)">
+    <foaf:name>Robert</foaf:name>
+    <foaf:surname>Corbin</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Anne (1695-1766)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1682</bio:date>
+        <bio:place>Accomack Co, VA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date> 8 Sep 1743</bio:date>
+        <bio:place>Accomack, Virginia, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Anne (1695-1766)">
+    <foaf:name>Anne</foaf:name>
+    <foaf:surname></foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Robert Corbin(1682-1743)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1695</bio:date>
+        <bio:place>Accomack Parish, Accomack, Virginia, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>30 Sep 1766</bio:date>
+        <bio:place>Accomack Co, VA</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/William Whealton(?-1787)">
+    <foaf:name>William</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Scarburgh Corbin(1719-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date></bio:date>
+        <bio:place>Accomack, Virginia, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>1787</bio:date>
+        <bio:place>Accomack, Virginia, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Justus Alexander Weatherington(1885-1968)">
+    <foaf:name>Justus Alexander</foaf:name>
+    <foaf:surname>Weatherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900)"/>
+    <rel:siblingOf rdf:resource="Marton L Wetherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Luther Weatherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Clifford Wesley Weatherington(1896-1983)"/>
+    <rel:siblingOf rdf:resource="William F Weatherington(1876-1946)"/>
+    <rel:siblingOf rdf:resource="Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:siblingOf rdf:resource="Clifford W Wetherington(1897-?)"/>
+    <rel:siblingOf rdf:resource="Alfred T Weatherington(1878-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 3 Jul 1885</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>28 Oct 1968</bio:date>
+        <bio:place>Chocowinity, Beaufort, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Clifford Wesley Weatherington(1896-1983)">
+    <foaf:name>Clifford Wesley</foaf:name>
+    <foaf:surname>Weatherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900)"/>
+    <rel:siblingOf rdf:resource="Justus Alexander Weatherington(1885-1968)"/>
+    <rel:siblingOf rdf:resource="Marton L Wetherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Luther Weatherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="William F Weatherington(1876-1946)"/>
+    <rel:siblingOf rdf:resource="Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:siblingOf rdf:resource="Clifford W Wetherington(1897-?)"/>
+    <rel:siblingOf rdf:resource="Alfred T Weatherington(1878-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 5 Jan 1896</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>12 Sep 1983</bio:date>
+        <bio:place>Pitt, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Luther Weatherington(1899-?)">
+    <foaf:name>Luther</foaf:name>
+    <foaf:surname>Weatherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900)"/>
+    <rel:siblingOf rdf:resource="Justus Alexander Weatherington(1885-1968)"/>
+    <rel:siblingOf rdf:resource="Marton L Wetherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Clifford Wesley Weatherington(1896-1983)"/>
+    <rel:siblingOf rdf:resource="William F Weatherington(1876-1946)"/>
+    <rel:siblingOf rdf:resource="Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:siblingOf rdf:resource="Clifford W Wetherington(1897-?)"/>
+    <rel:siblingOf rdf:resource="Alfred T Weatherington(1878-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1899</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Henry Carney Mayo(1821-1865)">
+    <foaf:name>Henry Carney</foaf:name>
+    <foaf:surname>Mayo</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Skidmore Wise(1824-1905)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1821</bio:date>
+        <bio:place>Mesic, Pamlico, North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>18 Nov 1865</bio:date>
+        <bio:place>Beaufort, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Matilda Skidmore Wise(1824-1905)">
+    <foaf:name>Matilda Skidmore</foaf:name>
+    <foaf:surname>Wise</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Henry Carney Mayo(1821-1865)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>29 Nov 1824</bio:date>
+        <bio:place></bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>24 Dec 1905</bio:date>
+        <bio:place></bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Frank Wetherington(1900-?)">
+    <foaf:name>Frank</foaf:name>
+    <foaf:surname>Wetherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1900</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date></bio:date>
+        <bio:place>Missouri, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Bruce Martin Whealton(1940-?)">
+    <foaf:name>Bruce Martin</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Kathleen Murphy(1940-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Susie Inez Martin(1916-2008)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Redden Whealton(1914-1995)"/>
+    <rel:siblingOf rdf:resource="Betty Josephine Roberts(1944-2004)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 9 Sep 1940</bio:date>
+        <bio:place>Beaufort, North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Susie Inez Martin(1916-2008)">
+    <foaf:name>Susie Inez</foaf:name>
+    <foaf:surname>Martin</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Redden Whealton(1914-1995)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Etta Jones Martin(1895-1978)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/William Henry Martin(1891-1965)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>28 Aug 1916</bio:date>
+        <bio:place>Beaufort, North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>29 Oct 2008</bio:date>
+        <bio:place>Elon College,  Alamance,  North Carolina</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Betty Josephine Roberts(1944-2004)">
+    <foaf:name>Betty Josephine</foaf:name>
+    <foaf:surname>Roberts</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Susie Inez Martin(1916-2008)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Redden Whealton(1914-1995)"/>
+    <rel:siblingOf rdf:resource="Bruce Martin Whealton(1940-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>18 Aug 1944</bio:date>
+        <bio:place>Beaufort, North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>19 Dec 2004</bio:date>
+        <bio:place>Burlington,  Alamance,  North Carolina</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)">
+    <foaf:name>Josephine</foaf:name>
+    <foaf:surname>Jones</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Whealton(1844-1916)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Alexandria Ives(?-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Samual Jones(?-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 3 Jan 1847</bio:date>
+        <bio:place>Pamlico, North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>22 Dec 1927</bio:date>
+        <bio:place>Richland, Beaufort, North Carolina</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Leven Whealton(1887-1955)">
+    <foaf:name>Leven</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Whealton(1844-1916)"/>
+    <rel:siblingOf rdf:resource="Clara Whealton(1881-1949)"/>
+    <rel:siblingOf rdf:resource="Deamos Whealton(1873-1955)"/>
+    <rel:siblingOf rdf:resource="Tildon Whealton(1876-1923)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>28 Aug 1887</bio:date>
+        <bio:place>Pamlico, North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>14 Jan 1873</bio:date>
+        <bio:place>Pamlico</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>22 Feb 1955</bio:date>
+        <bio:place>Cash Corner, Pamlico, North Carolina</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Delilah Carter(1807-?)">
+    <foaf:name>Delilah</foaf:name>
+    <foaf:surname>Carter</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1807</bio:date>
+        <bio:place>North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Stephen Redden Whealton(1914-1995)">
+    <foaf:name>Stephen Redden</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Susie Inez Martin(1916-2008)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven Whealton(1887-1955)"/>
+    <rel:siblingOf rdf:resource="Sam Whealton(1918-?)"/>
+    <rel:siblingOf rdf:resource="Katie Whealton(1917-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 9 Dec 1914</bio:date>
+        <bio:place>NC</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>15 Aug 1995</bio:date>
+        <bio:place>Burlington, Alamance, North Carolina</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Stephen Whealton(1844-1916)">
+    <foaf:name>Stephen</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Delilah Carter(1812-1889)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven E. Whealton(1811-1881)"/>
+    <rel:siblingOf rdf:resource="Laura E Whealton(1882-1951)"/>
+    <rel:siblingOf rdf:resource="George Warren Whealton(1838-1895)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Sep 1844</bio:date>
+        <bio:place>North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>1916</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Leven Whealton(1888-?)">
+    <foaf:name>Leven</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1888</bio:date>
+        <bio:place>North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/John W. Murphy(1892-1979)">
+    <foaf:name>John W.</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Mabel Wells Murphy(1900-1979)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?), Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?), Daniel Murphy(1860-?)"/>
+    <rel:siblingOf rdf:resource="Bessie Murphy(1891-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <rel:siblingOf rdf:resource="Francis Murphy(1886-?)"/>
+    <rel:siblingOf rdf:resource="Catherine Murphy(1887-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>30 Dec 1892</bio:date>
+        <bio:place>MA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>11 Jun 1979</bio:date>
+        <bio:place>Southington, Connecticut, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Clara Whealton(1881-1949)">
+    <foaf:name>Clara</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Whealton(1844-1916)"/>
+    <rel:siblingOf rdf:resource="Deamos Whealton(1873-1955)"/>
+    <rel:siblingOf rdf:resource="Leven Whealton(1887-1955)"/>
+    <rel:siblingOf rdf:resource="Tildon Whealton(1876-1923)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>12 Dec 1881</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>18 May 1949</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Deamos Whealton(1873-1955)">
+    <foaf:name>Deamos</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Stephen Whealton(1844-1916)"/>
+    <rel:siblingOf rdf:resource="Clara Whealton(1881-1949)"/>
+    <rel:siblingOf rdf:resource="Leven Whealton(1887-1955)"/>
+    <rel:siblingOf rdf:resource="Tildon Whealton(1876-1923)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>14 Jan 1873</bio:date>
+        <bio:place>Pamlico</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>22 Feb 1955</bio:date>
+        <bio:place>Cash Corner, Pamlico, North Carolina</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Stephen Whealton(1845-1916)">
+    <foaf:name>Stephen</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1845</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>1916</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Bessie Arabella Weatherington(1893-1970)">
+    <foaf:name>Bessie Arabella</foaf:name>
+    <foaf:surname>Weatherington</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Leven Whealton(1887-1955)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900)"/>
+    <rel:siblingOf rdf:resource="Justus Alexander Weatherington(1885-1968)"/>
+    <rel:siblingOf rdf:resource="Marton L Wetherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Luther Weatherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Clifford Wesley Weatherington(1896-1983)"/>
+    <rel:siblingOf rdf:resource="William F Weatherington(1876-1946)"/>
+    <rel:siblingOf rdf:resource="Clifford W Wetherington(1897-?)"/>
+    <rel:siblingOf rdf:resource="Alfred T Weatherington(1878-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>27 May 1893</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>20 Jan 1970</bio:date>
+        <bio:place>Aurora, Beaufort, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/William Henry Martin(1891-1965)">
+    <foaf:name>William Henry</foaf:name>
+    <foaf:surname>Martin</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Etta Jones Martin(1895-1978)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 2 Dec 1891</bio:date>
+        <bio:place>Pamlico, North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>24 Jun 1965</bio:date>
+        <bio:place>Washington,  Beaufort,  North Carolina</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?)">
+    <foaf:name>Christopher Daniel</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/William Murphy(1850-?)"/>
+    <rel:siblingOf rdf:resource="John D Murphy(1892-?)"/>
+    <rel:siblingOf rdf:resource="May Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1894-?)"/>
+    <rel:siblingOf rdf:resource="William L Murphy(1881-?)"/>
+    <rel:siblingOf rdf:resource="James M Murphy(1888-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>23 Dec 1877</bio:date>
+        <bio:place>East Boston, MA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date></bio:date>
+        <bio:place>Greenfield, Massachusetts, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)">
+    <foaf:name>Margaret</foaf:name>
+    <foaf:surname>Kelly</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?), Daniel Murphy(1860-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Jul 1862</bio:date>
+        <bio:place>Scotland</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900)">
+    <foaf:name>Redden Franklin</foaf:name>
+    <foaf:surname>Weatherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1853</bio:date>
+        <bio:place>North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>14 May 1900</bio:date>
+        <bio:place>Campbells Creek, Beaufort, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)">
+    <foaf:name>Matilda</foaf:name>
+    <foaf:surname>Mayo</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900), Frank Wetherington(1900-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Skidmore Wise(1824-1905)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Henry Carney Mayo(1821-1865)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Apr 1858</bio:date>
+        <bio:place>North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>23 Aug 1933</bio:date>
+        <bio:place>South Creek, Beaufort, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Francis Murphy(1886-?)">
+    <foaf:name>Francis</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?)"/>
+    <rel:siblingOf rdf:resource="Bessie Murphy(1891-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Catherine Murphy(1887-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Jan 1886</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Catherine Murphy(1887-?)">
+    <foaf:name>Catherine</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?)"/>
+    <rel:siblingOf rdf:resource="Bessie Murphy(1891-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Francis Murphy(1886-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Feb 1887</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mary Murphy(1889-?)">
+    <foaf:name>Mary</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?), Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?), Daniel Murphy(1860-?)"/>
+    <rel:siblingOf rdf:resource="Bessie Murphy(1891-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Francis Murphy(1886-?)"/>
+    <rel:siblingOf rdf:resource="Catherine Murphy(1887-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Apr 1889</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Bessie Murphy(1891-?)">
+    <foaf:name>Bessie</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Francis Murphy(1886-?)"/>
+    <rel:siblingOf rdf:resource="Catherine Murphy(1887-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Feb 1891</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Margaret Murphy(1896-?)">
+    <foaf:name>Margaret</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?), Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?), Daniel Murphy(1860-?)"/>
+    <rel:siblingOf rdf:resource="Bessie Murphy(1891-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Francis Murphy(1886-?)"/>
+    <rel:siblingOf rdf:resource="Catherine Murphy(1887-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Oct 1896</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Alice Murphy(1898-?)">
+    <foaf:name>Alice</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?), Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?), Daniel Murphy(1860-?)"/>
+    <rel:siblingOf rdf:resource="Bessie Murphy(1891-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Francis Murphy(1886-?)"/>
+    <rel:siblingOf rdf:resource="Catherine Murphy(1887-?)"/>
+    <rel:siblingOf rdf:resource="Elizabeth Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Jan 1898</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/William F Weatherington(1876-1946)">
+    <foaf:name>William F</foaf:name>
+    <foaf:surname>Weatherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900)"/>
+    <rel:siblingOf rdf:resource="Justus Alexander Weatherington(1885-1968)"/>
+    <rel:siblingOf rdf:resource="Marton L Wetherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Luther Weatherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Clifford Wesley Weatherington(1896-1983)"/>
+    <rel:siblingOf rdf:resource="Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:siblingOf rdf:resource="Clifford W Wetherington(1897-?)"/>
+    <rel:siblingOf rdf:resource="Alfred T Weatherington(1878-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>18 Jul 1876</bio:date>
+        <bio:place>Beaufort, North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>19 May 1946</bio:date>
+        <bio:place>South Creek, Beaufort, North Carolina, United States</bio:place>
+      </bio:Death>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Alfred T Weatherington(1878-?)">
+    <foaf:name>Alfred T</foaf:name>
+    <foaf:surname>Weatherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900)"/>
+    <rel:siblingOf rdf:resource="Justus Alexander Weatherington(1885-1968)"/>
+    <rel:siblingOf rdf:resource="Marton L Wetherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Luther Weatherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Clifford Wesley Weatherington(1896-1983)"/>
+    <rel:siblingOf rdf:resource="William F Weatherington(1876-1946)"/>
+    <rel:siblingOf rdf:resource="Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:siblingOf rdf:resource="Clifford W Wetherington(1897-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1878</bio:date>
+        <bio:place>Richland, Beaufort, North Carolina, United States</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/William Murphy(1850-?)">
+    <foaf:name>William</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Feb 1850</bio:date>
+        <bio:place>Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)">
+    <foaf:name>Mary</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/William Murphy(1850-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Mar 1852</bio:date>
+        <bio:place>Ireland</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/William L Murphy(1881-?)">
+    <foaf:name>William L</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/William Murphy(1850-?)"/>
+    <rel:siblingOf rdf:resource="John D Murphy(1892-?)"/>
+    <rel:siblingOf rdf:resource="May Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1894-?)"/>
+    <rel:siblingOf rdf:resource="Christopher Daniel Murphy(1877-?)"/>
+    <rel:siblingOf rdf:resource="James M Murphy(1888-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Dec 1881</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/James M Murphy(1888-?)">
+    <foaf:name>James M</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/William Murphy(1850-?)"/>
+    <rel:siblingOf rdf:resource="John D Murphy(1892-?)"/>
+    <rel:siblingOf rdf:resource="May Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1894-?)"/>
+    <rel:siblingOf rdf:resource="Christopher Daniel Murphy(1877-?)"/>
+    <rel:siblingOf rdf:resource="William L Murphy(1881-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Apr 1888</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/John D Murphy(1892-?)">
+    <foaf:name>John D</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/William Murphy(1850-?)"/>
+    <rel:siblingOf rdf:resource="May Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1894-?)"/>
+    <rel:siblingOf rdf:resource="Christopher Daniel Murphy(1877-?)"/>
+    <rel:siblingOf rdf:resource="William L Murphy(1881-?)"/>
+    <rel:siblingOf rdf:resource="James M Murphy(1888-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Feb 1892</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/May Murphy(1893-?)">
+    <foaf:name>May</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/William Murphy(1850-?)"/>
+    <rel:siblingOf rdf:resource="John D Murphy(1892-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1894-?)"/>
+    <rel:siblingOf rdf:resource="Christopher Daniel Murphy(1877-?)"/>
+    <rel:siblingOf rdf:resource="William L Murphy(1881-?)"/>
+    <rel:siblingOf rdf:resource="James M Murphy(1888-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 May 1893</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Margaret Murphy(1894-?)">
+    <foaf:name>Margaret</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/William Murphy(1850-?)"/>
+    <rel:siblingOf rdf:resource="John D Murphy(1892-?)"/>
+    <rel:siblingOf rdf:resource="May Murphy(1893-?)"/>
+    <rel:siblingOf rdf:resource="Christopher Daniel Murphy(1877-?)"/>
+    <rel:siblingOf rdf:resource="William L Murphy(1881-?)"/>
+    <rel:siblingOf rdf:resource="James M Murphy(1888-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date> 1 Jun 1894</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Clifford W Wetherington(1897-?)">
+    <foaf:name>Clifford W</foaf:name>
+    <foaf:surname>Wetherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933), Matilda Mayo(1858-1933)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900), Frank Wetherington(1900-?)"/>
+    <rel:siblingOf rdf:resource="Justus Alexander Weatherington(1885-1968)"/>
+    <rel:siblingOf rdf:resource="Marton L Wetherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Luther Weatherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Clifford Wesley Weatherington(1896-1983)"/>
+    <rel:siblingOf rdf:resource="William F Weatherington(1876-1946)"/>
+    <rel:siblingOf rdf:resource="Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:siblingOf rdf:resource="Alfred T Weatherington(1878-?)"/>
+    <rel:siblingOf rdf:resource="Marton L Wetherington(1899-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1897</bio:date>
+        <bio:place>North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Marton L Wetherington(1899-?)">
+    <foaf:name>Marton L</foaf:name>
+    <foaf:surname>Wetherington</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933), Matilda Mayo(1858-1933)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900), Frank Wetherington(1900-?)"/>
+    <rel:siblingOf rdf:resource="Justus Alexander Weatherington(1885-1968)"/>
+    <rel:siblingOf rdf:resource="Luther Weatherington(1899-?)"/>
+    <rel:siblingOf rdf:resource="Clifford Wesley Weatherington(1896-1983)"/>
+    <rel:siblingOf rdf:resource="William F Weatherington(1876-1946)"/>
+    <rel:siblingOf rdf:resource="Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:siblingOf rdf:resource="Clifford W Wetherington(1897-?)"/>
+    <rel:siblingOf rdf:resource="Alfred T Weatherington(1878-?)"/>
+    <rel:siblingOf rdf:resource="Clifford W Wetherington(1897-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1899</bio:date>
+        <bio:place>North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Katie Whealton(1917-?)">
+    <foaf:name>Katie</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven Whealton(1887-1955)"/>
+    <rel:siblingOf rdf:resource="Sam Whealton(1918-?)"/>
+    <rel:siblingOf rdf:resource="Stephen Redden Whealton(1914-1995)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1917</bio:date>
+        <bio:place>North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Sam Whealton(1918-?)">
+    <foaf:name>Sam</foaf:name>
+    <foaf:surname>Whealton</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Bessie Arabella Weatherington(1893-1970)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Leven Whealton(1887-1955)"/>
+    <rel:siblingOf rdf:resource="Katie Whealton(1917-?)"/>
+    <rel:siblingOf rdf:resource="Stephen Redden Whealton(1914-1995)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1918</bio:date>
+        <bio:place>North Carolina</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Daniel Murphy(1860-?)">
+    <foaf:name>Daniel</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Male</foaf:gender>
+    <rel:spouseOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1860</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://my-family-lineage.com/wiki/Elizabeth Murphy(1893-?)">
+    <foaf:name>Elizabeth</foaf:name>
+    <foaf:surname>Murphy</foaf:surname>
+    <foaf:gender>Female</foaf:gender>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)"/>
+    <rel:childOf rdf:resource="http://my-family-lineage.com/wiki/Daniel Murphy(1860-?)"/>
+    <rel:siblingOf rdf:resource="Alice Murphy(1898-?)"/>
+    <rel:siblingOf rdf:resource="Margaret Murphy(1896-?)"/>
+    <rel:siblingOf rdf:resource="John W. Murphy(1892-1979)"/>
+    <rel:siblingOf rdf:resource="Mary Murphy(1889-?)"/>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>ABT 1893</bio:date>
+        <bio:place>Massachusetts</bio:place>
+      </bio:Birth>
+    </bio:event>
+  </foaf:Person>
+  <foaf:Group>
+    <rdfs:label>Family of  and Levin D Whealton(1750-1801)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Levin D Whealton(1750-1801)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of  and Leven Whealton(1887-1955)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:Marriage>
+      <bio:date>23 Sep 1809</bio:date>
+      <bio:place>Craven, North Carolina</bio:place>
+    </bio:Marriage>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Leven Whealton(1887-1955)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Susie Inez Martin(1916-2008) and Stephen Redden Whealton(1914-1995)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Susie Inez Martin(1916-2008)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Stephen Redden Whealton(1914-1995)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Kathleen Murphy(1940-?) and Bruce Martin Whealton(1940-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Kathleen Murphy(1940-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Bruce Martin Whealton(1940-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Josephine Jones(1847-1927) and Stephen Whealton(1844-1916)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Stephen Whealton(1844-1916)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Mabel Wells Murphy(1900-1979) and John W. Murphy(1892-1979)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Mabel Wells Murphy(1900-1979)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/John W. Murphy(1892-1979)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Delilah Carter(1812-1889) and Leven E. Whealton(1811-1881)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Delilah Carter(1812-1889)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Leven E. Whealton(1811-1881)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Josephine Jones(1847-1927) and Stephen Whealton(1845-1916)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Josephine Jones(1847-1927)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Stephen Whealton(1845-1916)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Bessie Arabella Weatherington(1893-1970) and Leven Whealton(1887-1955)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Bessie Arabella Weatherington(1893-1970)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Leven Whealton(1887-1955)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Alexandria Ives(?-?) and Samual Jones(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Alexandria Ives(?-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Samual Jones(?-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Mary Chloe Dowdy(1775-1840) and Leven Easter Whealton(1784-1813)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:Marriage>
+      <bio:date>23 Sep 1809</bio:date>
+      <bio:place>Craven, North Carolina, United States</bio:place>
+    </bio:Marriage>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Mary Chloe Dowdy(1775-1840)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Leven Easter Whealton(1784-1813)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Etta Jones Martin(1895-1978) and William Henry Martin(1891-1965)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Etta Jones Martin(1895-1978)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/William Henry Martin(1891-1965)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Caroline Miller(?-?) and Edwin Wells(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Caroline Miller(?-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Edwin Wells(?-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Margaret Kelly(1862-?) and Christopher Daniel Murphy(1877-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Christopher Daniel Murphy(1877-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Margaret Kelly(1862-?) and Daniel Murphy(1860-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Margaret Kelly(1862-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Daniel Murphy(1860-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Matilda Mayo(1858-1933) and Redden Franklin Weatherington(1853-1900)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Redden Franklin Weatherington(1853-1900)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Matilda Mayo(1858-1933) and Frank Wetherington(1900-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Matilda Mayo(1858-1933)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Frank Wetherington(1900-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Annie Fell(?-?) and Henry Jones(?-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Annie Fell(?-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Henry Jones(?-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Mary Murphy(1852-?) and William Murphy(1850-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Mary Murphy(1852-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/William Murphy(1850-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Elnaz Rezaei Ghalechi(1981-?) and Bruce Jr Whealton(1966-?)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:Marriage>
+      <bio:date>11 Nov 2010</bio:date>
+      <bio:place>Ankara, Turkey</bio:place>
+    </bio:Marriage>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Elnaz Rezaei Ghalechi(1981-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Bruce Jr Whealton(1966-?)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Eliashe Jacob(1744-1792) and Elisha DOUGHTY(1744-1792)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <bio:Marriage>
+      <bio:date>21 Oct 1772</bio:date>
+      <bio:place>Northampton County, Virginia, USA</bio:place>
+    </bio:Marriage>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Eliashe Jacob(1744-1792)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Elisha DOUGHTY(1744-1792)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Scarburgh Corbin(1719-?) and William Whealton(?-1787)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Scarburgh Corbin(1719-?)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/William Whealton(?-1787)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Anne (1695-1766) and Robert Corbin(1682-1743)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Anne (1695-1766)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Robert Corbin(1682-1743)"/>
+  </foaf:Group>
+  <foaf:Group>
+    <rdfs:label>Family of Matilda Skidmore Wise(1824-1905) and Henry Carney Mayo(1821-1865)</rdfs:label>
+    <rdf:type rdf:resource="http://xmlns.com/wordnet/1.6/Family"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Matilda Skidmore Wise(1824-1905)"/>
+    <foaf:member rdf:resource="http://my-family-lineage.com/wiki/Henry Carney Mayo(1821-1865)"/>
+  </foaf:Group>
+</rdf:RDF>
