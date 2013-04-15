@@ -1,0 +1,2 @@
+*/5 * * * * /usr/local/bin/php /home/myfamily/public_html/w/maintenance/runJobs_once.php --maxjobs 600 2>&1 >> /home/myfamily/public_html/w/runJobs.log
+23 * * * * /usr/local/bin/php /home/myfamily/public_html/w/maintenance/generateSitemap.php --compress=no --fspath /home/myfamily/public_html/w/sitemap/ --urlpath http://my-family-lineage.com/w/sitemap --server=http://my-family-lineage.com

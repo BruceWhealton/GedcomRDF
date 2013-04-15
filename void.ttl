@@ -1,0 +1,107 @@
+# my-family-lineage dataset
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix wv: <http://vocab.org/waiver/terms/norms> .        
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix dbpedia: <http://dbpedia.org/resource/>.
+@prefix fb: <http://rdf.freebase.com/ns/>.
+@prefix : <#> .
+
+:My_Family_Lineage a void:Dataset ;
+	foaf:homepage <http://my-family-lineage.com/wiki/> ;
+	dcterms:title "My Family Lineage" ;
+	dcterms:description "Genealogy Website Built Using Semantic MediaWiki" ;
+	dcterms:creator :Bruce_Whealton ;
+	dcterms:publisher :Bruce_Whealton ;
+	dcterms:contributor :Bruce_Whealton ;
+	dcterms:contributor :Juri_Linkov ;
+	dcterms:created "2012-01-01"^^xsd:date ;
+	dcterms:modified "2012-06-07"^^xsd:date ;
+       dcterms:subject <http://dbpedia.org/resource/Genealogy>;
+       void:vocabulary <http://xmlns.com/foaf/0.1/>;
+       void:vocabulary <http://schema.org/>;
+       void:vocabulary <http://purl.org/vocab/bio/0.1/>;
+       void:vocabulary <http://purl.org/vocab/relationship/>;
+       void:vocabulary <http://purl.org/dc/terms/>;
+       void:vocabulary <http://www.w3.org/2000/01/rdf-schema#>;
+       void:vocabulary <http://gedcomx.org/>;
+       void:vocabulary <http://www.w3.org/2002/07/owl#>;
+       void:vocabulary <http://schemas.talis.com/2005/address/schema/>;
+       void:vocabulary <http://www.w3.org/2003/01/geo/wgs84_pos#>;
+       void:vocabulary <http://www.w3.org/2004/02/skos/core#>;
+	void:triples 3000000 ;
+	void:sparqlEndpoint <http://futurewavehosting.com:3030/my-family-lineage/sparql> ;
+	void:dataDump <http://my-family-lineage.com/w/RDF/categories.rdf> ;
+	void:dataDump <http://my-family-lineage.com/w/RDF/classes.rdf> ;
+	void:dataDump <http://my-family-lineage.com/w/RDF/concepts.rdf> ;
+	void:dataDump <http://my-family-lineage.com/w/RDF/datatypes.rdf> ;
+	void:dataDump <http://my-family-lineage.com/w/RDF/properties.rdf> ;
+	void:uriSpace "http://my-family-lineage.com/wiki/" ;
+	void:uriRegexPattern "http://my-family-lineage.com/wiki/.+" ;
+	void:exampleResource <http://my-family-lineage.com/wiki/Abraham_LINCOLN(1809-1865)> ;
+	void:exampleResource <http://my-family-lineage.com/wiki/Walter_Elias_Disney(1901-1966)> ;
+       dcterms:license <http://www.opendatacommons.org/odc-public-domain-dedication-and-licence/>;
+       wv:norms <http://www.opendatacommons.org/norms/odc-by-sa/>;
+	.
+	
+:DBpedia a void:Dataset;
+    foaf:homepage <http://dbpedia.org/>;
+    foaf:page <http://ckan.net/package/dbpedia>;
+    foaf:page <http://dbpedia.org/Downloads>;
+    void:uriSpace "http://dbpedia.org/resource/";
+    .
+
+:Bruce_Whealton a foaf:Person ;
+	rdfs:label "Bruce Whealton Jr." ;
+	foaf:homepage <http://futurewavedesigns.com/drupal7/bruce-whealton> ;
+        owl:sameAs <http//whealton.info/BruceWhealtonJr/foaf.rdf/Webdeveloper1#me>;
+        rdfs:seeAlso <http://whealton.info/BruceWhealtonJr/foaf.rdf>;
+        owl:sameAs <http://my-family-lineage.com/wiki/User:Bruce_Whealton_Jr.>;
+       foaf:mbox <mailto:bruce@whealton.info>;
+	.
+	
+:Juri_Linkov a foaf:Person ;
+	rdfs:label "Juri Linkov" ;
+	foaf:homepage <http://semantic-mediawiki.org/wiki/User:Link0ff> ;
+	.
+
+:My_Family_Lineage_Places a void:Linkset;
+        void:subset :My_Family_Lineage;
+        void:target :My_Family_Lineage;
+        void:target :DBpedia;
+        void:target :Geonames;
+        void:linkPredicate owl:sameAs;
+        void:triples 4000;
+        .
+
+        sd:namedGraph [
+            sd:name <<http://futurewavehosting.com:3030/my-family-lineage/graph/Places>>;
+            sd:graph [
+                a sd:Graph, void:Linkset;
+                dcterms:title "Places";
+                foaf:homepage <http://my-family-lineage.com/wiki/>;
+                void:triples 4000;
+            ];
+        ];
+      	 sd:namedGraph [
+ 		sd:name <<<http://futurewavehosting.com:3030/my-family-lineage/graph/King>>;
+ 		sd:graph [
+			a sd:Graph;
+			dcterms:title "Category:GEDCOM king";
+  			foaf:page <http://my-family-lineage.com/wiki/Category:GEDCOM_king>;
+		];
+	];
+  	 sd:namedGraph [
+ 		sd:name <<<<http://futurewavehosting.com:3030/my-family-lineage/graph/BruceWhealtonJr>>>;
+ 		sd:graph [
+			a sd:Graph;
+			dcterms:title "GEDCOM_BruceWhealtonJr";
+  			foaf:page <http://my-family-lineage.com/wiki/GEDCOM_BruceWhealtonJr>;
+		];
+	];
+
